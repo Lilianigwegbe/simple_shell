@@ -1,1 +1,1 @@
-make your sh
+This is a joint collaboration on the ALX simple shell project. A shell is a command line interface, which is used to communicate with the Operating System. It is a program that allows you to type commands from your keyboards, which are then received, read, interpreted and executed.

@@ -24,7 +24,7 @@ char *get_env_var(info_t *info, const char *name)
 list_t *node = info->env_list;
 char *p;
 while (node)
-{ 
+{
 p = starts_with(node->str, name);
 if (p && *p)
 return (p);
